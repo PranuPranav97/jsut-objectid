@@ -1,6 +1,6 @@
 {
   "name": "just-objectid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Contains Lightweight Version of Mongo ObjectId.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
