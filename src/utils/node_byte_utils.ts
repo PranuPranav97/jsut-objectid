@@ -1,4 +1,4 @@
-import { BSONError } from "../error";
+import { BSONError } from "../object-id/error";
 
 type NodeJsEncoding = "base64" | "hex" | "utf8" | "binary";
 type NodeJsBuffer = ArrayBufferView &
