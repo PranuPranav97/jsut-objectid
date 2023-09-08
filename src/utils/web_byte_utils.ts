@@ -1,4 +1,4 @@
-import { BSONError } from "../error";
+import { BSONError } from "../object-id/error";
 
 type TextDecoder = {
   readonly encoding: string;

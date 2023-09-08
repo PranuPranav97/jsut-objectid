@@ -1,1 +1,1 @@
-export * from "./objectid";
+export * from "./object-id/objectid";
